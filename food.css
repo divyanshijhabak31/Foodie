@@ -15,7 +15,7 @@ p{
 	position: relative;
 	width: 100%;
 	justify-content: center;
-	background:url(web/bg.jpg);
+	background:url(bg.jpg);
 	background-size: cover;
 	display: flex;
 	min-height: 100vh;
@@ -222,7 +222,7 @@ section{
     justify-content: center;
 }
 .testimonials{
-	background-image: url(web/bg2.jpg);
+	background-image: url(bg2.jpg);
 	background-size: cover;
 	margin-top: 40px;
 }
@@ -267,7 +267,7 @@ section{
 	font-size: 25px;
 }
 .contact{
-	background-image: url(web/bg3.jpg);
+	background-image: url(bg3.jpg);
 	background-size: cover;
 
 }
